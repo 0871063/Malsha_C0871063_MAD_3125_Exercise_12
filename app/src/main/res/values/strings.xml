@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Excercise_12</string>
+    <string name="title">Vote Please</string>
+    <string name="name">Name </string>
+    <string name="id">ID </string>
+    <string name="accept">Accept</string>
+    <string name="refuse">Refuse</string>
+    <string name="vote">Vote</string>
+    <string name="candidate">Candidate </string>
+    <string-array name="candidates">
+        <item>Choose Candidate</item>
+        <item>Candidate One</item>
+        <item>Candidate Two</item>
+        <item>Candidate Three</item>
+        <item>Candidate Four</item>
+        <item>Candidate Five</item>
+        <item>Candidate Six</item>
+        <item>Candidate Seven</item>
+        <item>Candidate Eight</item>
+        <item>Candidate Nine</item>
+        <item>Candidate Ten</item>
+    </string-array>
 </resources>
